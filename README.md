@@ -52,7 +52,10 @@ The `common` module contains:
 ---
 
 ## 🎥 Demo
-[Click to view demo video](Screen%20Recording%202025-04-22%20at%202.42.21.mov)
+
+https://github.com/user-attachments/assets/0ee975b7-8cec-425f-85ba-f3ac4815988c
+
+
 
 ---
 
